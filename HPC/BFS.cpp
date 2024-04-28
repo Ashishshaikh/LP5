@@ -1,6 +1,10 @@
+//Design and implement Parallel breadth First Search
+//based on existing algorithms using OpenMP. Use a Tree or an undirected graph //for BFS and DFS.
+
 #include<iostream>
 #include<stdlib.h>
 #include<queue>
+#include<omp.h>
 using namespace std;
 
 

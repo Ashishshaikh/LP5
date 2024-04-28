@@ -1,3 +1,6 @@
+//Write a program to implement Parallel Merge sort using
+//OpenMP. Use existing algorithms and measure the performance of sequential and //parallel algorithms.
+
 #include<iostream>
 #include<stdlib.h>
 #include<omp.h>
